@@ -15,24 +15,14 @@ At GeoAI Hub Mersin, we are driven by a passionate commitment to harness the pow
 ## 🔬 Current Projects
 Explore some of our ongoing projects that exemplify the fusion of AI and GeoScience:
 - [Project 1: [GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras](https://github.com/geoaihub/GeoAdvances-EQ-Scene-Classification-2023-Kahramanmaras)]
+- [Project 2: [IGARSS-EQ-Object-Detection-YOLO-Kahramanmaras](https://github.com/geoaihub/IGARSS-EQ-Object-Detection-YOLO-Kahramanmaras)]
+- [Project 3: [Classification of Sentinel-2 Images Using Artificial Intelligence Algorithms and Explainment of Factors Affecting Classification With The SHAP Technique (Will be added GitHub soon.)]()]
 
 ## 🌐 Connect With Us
 Stay updated on our latest developments, research findings, and community activities:
 - [geoaihub@gmail.com](mailto:geoaihub@gmail.com)
 
 Join us on this exciting journey at the intersection of AI and GeoScience. Together, let's chart new territories and pave the way for a smarter, more sustainable future.
-
-<details>
-	<summary>Stats...</summary>
-  <div align="center">  
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=geoaihub&theme=swift" align="center"/>
-  </div>
-  
-  <div align="center">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=geoaihub&theme=swift" align="center"/>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=geoaihub&theme=swift" align="center"/>
-  </div>
-</details>
 
 <br>
 
